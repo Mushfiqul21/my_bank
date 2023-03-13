@@ -1,0 +1,33 @@
+
+.custom-form-bg{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px gray;
+}
+.submit-area{
+    background: rgb(189, 254, 220);
+}
+.bg-custom-heading{
+    background: #82e0ae;
+}
+.button-custom{
+    background: #45cd84;
+    padding: 10px 12px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 12px rgb(158, 158, 158);
+    color: white;
+    box-sizing: border-box;
+}
+.bg-color{
+    background: #41c37e;
+}
+
+.button-custom:hover{
+    border: 3px solid #45cd84;
+    color: #41c37e;
+    background: rgb(255, 255, 255);
+    font-weight: 700;
+    box-sizing: border-box;
+}
